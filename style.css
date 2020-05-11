@@ -1,0 +1,32 @@
+body {
+    background: #ffff22;
+}
+
+.menu {
+    background-color: #aaaa22;
+
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu li {
+    list-style: none;
+
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    text-align: center;
+    color: rgb(1, 200, 235);
+}
